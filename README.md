@@ -4,6 +4,9 @@
   A review of unsupervised feature learning and deep learning for time-series modeling
   http://www.sciencedirect.com/science/article/pii/S0167865514000221
   
+  Deep Learning for Time-Series Analysis
+  https://arxiv.org/abs/1701.01887
+  
 ## Specifics
 
   Time series forecasting using a deep belief network with restricted Boltzmann machines
