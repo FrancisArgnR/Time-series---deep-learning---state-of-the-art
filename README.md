@@ -92,7 +92,7 @@
   Time series prediction for evolutions of complex systems: A deep learning approach
   http://ieeexplore.ieee.org/document/7476150/
 
-  Deep neural network architectures for forecasting analgesic response
+  Traffic flow prediction with Long Short-Term Memory Networks (LSTMs)
   http://ieeexplore.ieee.org/document/7848593/
 
   Deep neural network architectures for forecasting analgesic response
