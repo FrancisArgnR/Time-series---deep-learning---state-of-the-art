@@ -38,6 +38,9 @@
 
   Building energy load forecasting using Deep Neural Networks
   http://ieeexplore.ieee.org/document/7793413/
+  
+  Travel time prediction with LSTM neural network
+  http://ieeexplore.ieee.org/document/7795686/
 
   A Deep Learning Approach for the Prediction of Retail Store Sales
   http://ieeexplore.ieee.org/document/7836713/
@@ -77,7 +80,6 @@
 
   Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks
   http://link.springer.com/chapter/10.1007/978-3-319-08010-9_33
-  
 
   Ensemble deep learning for regression and time series forecasting
   http://ieeexplore.ieee.org/abstract/document/7015739/
@@ -85,8 +87,7 @@
   Time series forecasting using a deep belief network with restricted Boltzmann machines
   http://link.springer.com/chapter/10.1007/978-3-642-31837-5_3
 
-  "Convolutional neural networks for time series classification
-  "
+  Convolutional neural networks for time series classification
   http://ieeexplore.ieee.org/document/7870510/
 
   Time series prediction for evolutions of complex systems: A deep learning approach
@@ -97,3 +98,6 @@
 
   Deep neural network architectures for forecasting analgesic response
   http://ieeexplore.ieee.org/document/7591352/
+  
+  Traffic speed prediction using deep learning method
+  http://ieeexplore.ieee.org/document/7795712/
