@@ -75,14 +75,15 @@
   Deep Learning for Time Series Modeling
   https://pdfs.semanticscholar.org/a241/a7e26d6baf2c068601813216d3cc09e845ff.pdf
 
-  Time series forecasting using a deep belief network with restricted Boltzmann machines
+  Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks
   http://link.springer.com/chapter/10.1007/978-3-319-08010-9_33
+  
 
   Ensemble deep learning for regression and time series forecasting
   http://ieeexplore.ieee.org/abstract/document/7015739/
 
-  Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks
-  http://link.springer.com/chapter/10.1007/978-3-319-08010-9_33
+  Time series forecasting using a deep belief network with restricted Boltzmann machines
+  http://link.springer.com/chapter/10.1007/978-3-642-31837-5_3
 
   "Convolutional neural networks for time series classification
   "
