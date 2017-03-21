@@ -101,3 +101,12 @@
   
   Traffic speed prediction using deep learning method
   http://ieeexplore.ieee.org/document/7795712/
+  
+  Long short-term memory model for traffic congestion prediction with online open data
+  http://ieeexplore.ieee.org/document/7795543/
+  
+  Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach
+  http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517319
+  
+  Optimization of decentralized renewable energy system by weather forecasting and deep machine learning techniques
+  http://ieeexplore.ieee.org/document/7796524/
