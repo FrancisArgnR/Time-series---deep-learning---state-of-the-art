@@ -17,6 +17,11 @@
   Top layer -> SVM <br>
   Fine-tuning connection weights -> Back-propagation <br>
   
+  2016 -> [Traffic speed prediction using deep learning method](http://ieeexplore.ieee.org/document/7795712/) <br>  
+  Train -> greedy layer-wise manner <br>  
+  Fine-tuning connection weights -> Back-propagation <br>  
+  Sizes -> several ccombinations <br>
+  
   2015 -> [Ensemble deep learning for regression and time series forecasting](http://ieeexplore.ieee.org/abstract/document/7015739/) <br>
   Top layer -> support vector regression (SVR) <br>
 
@@ -36,7 +41,10 @@
   2016 -> [Rainfall Prediction: A Deep Learning Approach](http://link.springer.com/chapter/10.1007/978-3-319-32034-2_13) <br>
   Top layer -> multilayer perceptron <br>
   Sizes and learning rates -> several combinations <br>
-
+  
+  2016 -> [Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517319) <br>
+  Fine-tuning connection weights -> Levenberg-Marquadt <br>
+  
   2015 -> [Forecasting the weather of Nevada: A deep learning approach](http://ieeexplore.ieee.org/document/7280812/) <br>
   Top layer -> feed-forward neural network  <br>
 
@@ -54,6 +62,13 @@
   
   2016 -> [Building energy load forecasting using Deep Neural Networks](http://ieeexplore.ieee.org/document/7793413/) <br>
   Model train -> Backpropagation <br>
+
+  2016 -> [Traffic flow prediction with Long Short-Term Memory Networks (LSTMs)](http://ieeexplore.ieee.org/document/7848593/) <br>
+  
+  2016 -> [Deep neural network architectures for forecasting analgesic response](http://ieeexplore.ieee.org/document/7591352/) <br>
+
+  2016 -> [Long short-term memory model for traffic congestion prediction with online open data](http://ieeexplore.ieee.org/document/7795543/) <br>
+  Sizes and learning rates -> several ccombinations <br>
   
 ## Deef Belief Network with Restricted Boltzmann Machine - Auto-Encoders
 
@@ -79,7 +94,10 @@
 
   2016 -> [A Deep Learning Approach for the Prediction of Retail Store Sales](http://ieeexplore.ieee.org/document/7836713/) <br>
   Type -> Not specified <br>
-  
+
+  2016 -> [Optimization of decentralized renewable energy system by weather forecasting and deep machine learning techniques](http://ieeexplore.ieee.org/document/7796524/) <br>
+  Type -> a novel optimization tool platform using Boltzmann machine algorithm for NMIP <br>
+
   2015 -> [Weather forecasting using deep learning techniques](http://ieeexplore.ieee.org/document/7415154/) <br>
   Type -> Recurrent neural network, convolutional neural network <br>
   
@@ -87,42 +105,10 @@
   Type -> Multi-Channels Deep Convolution Neural Networks <br>
   
   
+## Reviews
   
+  2017 -> [Deep Learning for Time-Series Analysis](https://arxiv.org/abs/1701.01887) <br>
   
- ## Othersdfsdfsdfs
- 
-  Deep Learning for Time Series Modeling
-  https://pdfs.semanticscholar.org/a241/a7e26d6baf2c068601813216d3cc09e845ff.pdf
+  2014 -> [A review of unsupervised feature learning and deep learning for time-series modeling](http://www.sciencedirect.com/science/article/pii/S0167865514000221) <br>
 
-
-
-
-
-
-  Traffic flow prediction with Long Short-Term Memory Networks (LSTMs)
-  http://ieeexplore.ieee.org/document/7848593/
-
-  Deep neural network architectures for forecasting analgesic response
-  http://ieeexplore.ieee.org/document/7591352/
-  
-  Traffic speed prediction using deep learning method
-  http://ieeexplore.ieee.org/document/7795712/
-  
-  Long short-term memory model for traffic congestion prediction with online open data
-  http://ieeexplore.ieee.org/document/7795543/
-  
-  Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach
-  http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517319
-  
-  Optimization of decentralized renewable energy system by weather forecasting and deep machine learning techniques
-  http://ieeexplore.ieee.org/document/7796524/
-  
-  
-  
-## Generalizations
-
-  A review of unsupervised feature learning and deep learning for time-series modeling <br>
-  http://www.sciencedirect.com/science/article/pii/S0167865514000221 <br>
-  
-  Deep Learning for Time-Series Analysis
-  https://arxiv.org/abs/1701.01887
+  2012 -> [Deep Learning for Time Series Modeling](https://pdfs.semanticscholar.org/a241/a7e26d6baf2c068601813216d3cc09e845ff.pdf) <br>
