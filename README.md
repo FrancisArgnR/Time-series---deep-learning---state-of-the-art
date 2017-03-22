@@ -73,7 +73,7 @@ Top layer -> feed-forward neural network  <br>
 ## Deef Belief Network with Restricted Boltzmann Machine - Auto-Encoders
 
 2016 -> [Deep Learning for Wind Speed Forecasting in Northeastern Region of Brazil](http://ieeexplore.ieee.org/document/7424040/) <br>
-Train -> greedy layer-wise manner <br>    
+Train -> greedy layer-wise manner <br>
 Fine-tuning connection weights -> Levenberg-Marquadt <br>
 Sizes -> several combinations <br>
 
