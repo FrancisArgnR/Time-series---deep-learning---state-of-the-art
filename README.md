@@ -5,11 +5,11 @@
 
 
 - [Ryu, S., Noh, J., & Kim, H. (2016). Deep neural network based demand side short term load forecasting. Energies, 10(1), 3.](https://www.scopus.com/record/display.uri?eid=2-s2.0-85009236706&origin=resultslist&sort=plf-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=4&citeCnt=0&searchTerm=) 
- - Notes:
-  - Model 1 train -> greedy layer-wise manner
-  - Model 1 Fine-tuning connection weights -> Back-propagation 
-  - Model 2 train -> ReLu 
-  - Sizes -> trial and error 
+  - Notes:
+   - Model 1 train -> greedy layer-wise manner
+   - Model 1 Fine-tuning connection weights -> Back-propagation 
+   - Model 2 train -> ReLu 
+   - Sizes -> trial and error 
 
 2017 -> [Empirical Mode Decomposition based ensemble deep learning for load demand time series forecasting](https://www.scopus.com/record/display.uri?eid=2-s2.0-85011866839&origin=resultslist&sort=plf-f&src=s&st1=deep+learning+time+series&st2=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a10&sot=b&sdt=b&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=0&citeCnt=0&searchTerm=) <br>
 
