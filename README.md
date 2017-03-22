@@ -1,43 +1,57 @@
 
-## Generalizations
+## Deef Belief Network with Restricted Boltzmann Machine
 
-  A review of unsupervised feature learning and deep learning for time-series modeling
-  http://www.sciencedirect.com/science/article/pii/S0167865514000221
+  2014 -> Time series forecasting using a deep belief network with restricted Boltzmann machines <br>
+  http://www.sciencedirect.com/science/article/pii/S0925231213007388 <br>
+  Fine-tuning connection weights -> Back-propagation <br>
+  Sizes and learning rates -> PSO <br>
+
+## Auto-Encoders
+
+  2015 -> Forecasting the weather of Nevada: A deep learning approach <br>
+  http://ieeexplore.ieee.org/document/7280812/ <br>
+  Output layer -> feed-forward neural network  <br>
+
+## Long short-term memory
+
+  2017 -> LSTM network: a deep learning approach for short-term traffic forecast <br>
+  http://ieeexplore.ieee.org/document/7874313/ <br>
+
+  2016 -> Sequence-to-Sequence Model with Attention for Time Series Classification <br>
+  http://ieeexplore.ieee.org/document/7836709/ <br>
   
-  Deep Learning for Time-Series Analysis
-  https://arxiv.org/abs/1701.01887
+  2016 -> Deep learning for stock prediction using numerical and textual information <br>
+  http://ieeexplore.ieee.org/document/7550882/ <br>  
   
+  2016 -> Travel time prediction with LSTM neural network <br>
+  http://ieeexplore.ieee.org/document/7795686/ <br>  
+  
+  2016 -> Building energy load forecasting using Deep Neural Networks <br>
+  http://ieeexplore.ieee.org/document/7793413/ <br>
+  Model train -> Backpropagation <br>
+  
+## Deef Belief Network with Restricted Boltzmann Machine - Auto-Encoders
+
+  2016 -> Deep Learning for Wind Speed Forecasting in Northeastern Region of Brazil <br>
+  http://ieeexplore.ieee.org/document/7424040/ <br>
+  Fine-tuning connection weights -> Levenberg-Marquadt <br>
+  Sizes -> check <br>
+
+## Long Short-Term Memory - Deef Belief Network with Restricted Boltzmann Machine - AutoEncoders Long Short-Term Memory
+
+  2016 -> Deep Learning for solar power forecasting — An approach using AutoEncoder and LSTM Neural Networks <br>
+  http://ieeexplore.ieee.org/document/7844673/ <br>
+
+## Others
+
+  2016 -> Deep Convolutional Factor Analyser for Multivariate Time Series Modeling <br>
+  http://ieeexplore.ieee.org/document/7837993/ <br>
+
+
+
 ## Specifics
 
-  Time series forecasting using a deep belief network with restricted Boltzmann machines
-  http://www.sciencedirect.com/science/article/pii/S0925231213007388
 
-  Deep Learning for solar power forecasting — An approach using AutoEncoder and LSTM Neural Networks
-  http://ieeexplore.ieee.org/document/7844673/
-
-  Sequence-to-Sequence Model with Attention for Time Series Classification
-  http://ieeexplore.ieee.org/document/7836709/
-
-  LSTM network: a deep learning approach for short-term traffic forecast
-  http://ieeexplore.ieee.org/document/7874313/
-
-  Forecasting the weather of Nevada: A deep learning approach
-  http://ieeexplore.ieee.org/document/7280812/
-
-  Deep Learning for Wind Speed Forecasting in Northeastern Region of Brazil
-  http://ieeexplore.ieee.org/document/7424040/
-
-  Deep learning for stock prediction using numerical and textual information
-  http://ieeexplore.ieee.org/document/7550882/
-
-  Travel time prediction with LSTM neural network
-  http://ieeexplore.ieee.org/document/7795686/
-
-  Deep Convolutional Factor Analyser for Multivariate Time Series Modeling
-  http://ieeexplore.ieee.org/document/7837993/
-
-  Building energy load forecasting using Deep Neural Networks
-  http://ieeexplore.ieee.org/document/7793413/
   
   Travel time prediction with LSTM neural network
   http://ieeexplore.ieee.org/document/7795686/
@@ -110,3 +124,13 @@
   
   Optimization of decentralized renewable energy system by weather forecasting and deep machine learning techniques
   http://ieeexplore.ieee.org/document/7796524/
+  
+  
+  
+## Generalizations
+
+  A review of unsupervised feature learning and deep learning for time-series modeling <br>
+  http://www.sciencedirect.com/science/article/pii/S0167865514000221 <br>
+  
+  Deep Learning for Time-Series Analysis
+  https://arxiv.org/abs/1701.01887
