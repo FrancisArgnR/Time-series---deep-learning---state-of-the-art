@@ -219,6 +219,12 @@
 
   Type: Recurrent neural network, convolutional neural network 
   
+- [Mladen Dalto (2015). Deep neural networks for time series prediction with applications in ultra-short-term wind forecasting](https://www.fer.unizg.hr/_download/repository/KDI-Djalto.pdf)
+
+  Summary: The aim of this paper is to present deep neural network architectures and algorithms and explore their use in time series prediction. Shallow and deep neural networks coupled with two input variable selection algorithms are compared on a ultra-short-term wind prediction task. 
+
+  Type: MultiLayer Perceptron.   
+  
 ### 2014 
 - [Yi ZhengQi LiuEnhong ChenYong GeJ. Leon Zhao. (2014). Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks. International Conference on Web-Age Information Management.](http://link.springer.com/chapter/10.1007/978-3-319-08010-9_33) 
 
@@ -226,11 +232,17 @@
 
   Type: Multi-Channels Deep Convolution Neural Networks 
   
+- [Dmitry Vengertsev (2014). Deep Learning Architecture for Univariate Time Series Forecasting](http://cs229.stanford.edu/proj2014/Dmitry%20Vengertsev,Deep%20Leraning%20Architecture%20for%20Univariate%20Time%20Series%20Forecasting.pdf)
+
+  Summary: This paper overviews the particular challenges present in applying Conditional Restricted Boltzmann Machines (CRBM) to univariate time-series forecasting and provides a comparison to common algorithms used for time-series prediction. As a benchmark dataset for testing and comparison of forecasting algorithms, the paper selected M3 competition dataset.
+  
+  Type: Conditional Restricted Boltzmann Machines (CRBM)  
+  
 ## Reviews
   
 ### 2017
   
-- [(John Cristian Borges Gamboa 2017. Deep Learning for Time-Series Analysis](https://arxiv.org/abs/1701.01887)
+- [John Cristian Borges Gamboa 2017. Deep Learning for Time-Series Analysis](https://arxiv.org/abs/1701.01887)
 
   Summary: This paper presents review of the main Deep Learning techniques, and some applications on Time-Series analysis are summaried. 
   
@@ -242,3 +254,8 @@
 
 ### 2012
 - [Enzo Busseti, Ian Osband, Scott Wong (2012). Deep Learning for Time Series Modeling](https://pdfs.semanticscholar.org/a241/a7e26d6baf2c068601813216d3cc09e845ff.pdf)
+
+
+
+
+  
