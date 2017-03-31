@@ -105,41 +105,75 @@
 
 - [Yuan-yuan Chen; Yisheng Lv; Zhenjiang Li; Fei-Yue Wang (2016). Long short-term memory model for traffic congestion prediction with online open data. Intelligent Transportation Systems (ITSC), 2016 IEEE 19th International Conference on.](http://ieeexplore.ieee.org/document/7795543/)
 
-  Summary: This paper uses a stacked long short-term memory model, a kind of deep architecture, to learn and predict the patterns of traffic conditions (thart are collected from online open web based map services). 
+  Summary: This paper uses a stacked long short-term memory model to learn and predict the patterns of traffic conditions (that are collected from online open web based map services). 
 
   Notes:
    - Model sizes and learning rates -> several ccombinations
  
 ## Auto-Encoders
 
-2016 -> [Deep learning architecture for air quality predictions](https://www.scopus.com/record/display.uri?eid=2-s2.0-84991071427&origin=resultslist&sort=plf-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=9&citeCnt=0&searchTerm=) <br>
-Train -> greedy layer-wise manner <br>
-Top layer -> logistic regression <br>
-Fine-tuning connection weights -> Back-propagation <br>
-Sizes -> several ccombinations <br>
+### 2016
 
-2016 -> [Rainfall Prediction: A Deep Learning Approach](http://link.springer.com/chapter/10.1007/978-3-319-32034-2_13) <br>
-Top layer -> multilayer perceptron <br>
-Sizes and learning rates -> several combinations <br>
-  
-2016 -> [Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517319) <br>
-Fine-tuning connection weights -> Levenberg-Marquadt <br>
-  
-2015 -> [Forecasting the weather of Nevada: A deep learning approach](http://ieeexplore.ieee.org/document/7280812/) <br>
-Top layer -> feed-forward neural network  <br>
+- [Li, X.ac, Peng, L.a, Hu, Y.ac, Shao, J.b, Chi, T.a (2016). Deep learning architecture for air quality predictions. Environmental Science and Pollution Research. 23(22), pages 22408-22417](https://www.scopus.com/record/display.uri?eid=2-s2.0-84991071427&origin=resultslist&sort=plf-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=9&citeCnt=0&searchTerm=)
 
-2013 -> Time-Series Forecasting of Indoor Temperature Using Pre-trained Deep Neural Network](http://link.springer.com/chapter/10.1007/978-3-642-40728-4_57) <br> 
+  Summary: This paper proposed a novel spatiotemporal deep learning (STDL)-based air quality prediction method that inherently considers spatial and temporal correlations. A stacked autoencoder (SAE) model is used to extract inherent air quality features. 
+  
+  Notes:
+   - Model Train -> greedy layer-wise manner
+   - Top layer -> logistic regression
+   - Fine-tuning connection weights -> Back-propagation
+   - Model sizes -> several ccombinations
+
+- [Emilcy Hernández, Victor Sanchez-Anguix, Vicente Julian, Javier Palanca, Néstor Duque (2016). Rainfall Prediction: A Deep Learning Approach. International Conference on Hybrid Artificial Intelligence Systems.](http://link.springer.com/chapter/10.1007/978-3-319-32034-2_13)
+
+  Summary: The paper introduces an architecture based on Deep Learning for the prediction of the accumulated daily precipitation for the next day. More specifically, it includes an autoencoder for reducing and capturing non-linear relationships between attributes, and a multilayer perceptron for the prediction task. 
+
+  Notes:
+   - Top layer -> multilayer perceptron
+   - Model sizes and learning rates -> several combinations
+  
+- [Hao-Fan Yang, Tharam S. Dillon (2016). Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach. IEEE Transactions on Neural Networks and Learning Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517319)
+
+  Summary: This paper proposes a stacked autoencoder Levenberg–Marquardt model to improve forecasting accuracy. It is applied to  real-world data collected from the M6 freeway in the U.K.  
+
+  Notes:
+   - Fine-tuning connection weights -> Levenberg-Marquadt
+  
+### 2015
+  
+- [Moinul Hossain; Banafsheh Rekabdar; Sushil J. Louis; Sergiu Dascalu (2015). Forecasting the weather of Nevada: A deep learning approach. Neural Networks (IJCNN), 2015 International Joint Conference on.](http://ieeexplore.ieee.org/document/7280812/)
+
+  Summary: This paper compares a deep learning network (Stacked Denoising Auto-Encoders (SDAE)) against a standard neural network for predicting air temperature from historical pressure, humidity, and temperature data gathered from meteorological sensors in Northwestern Nevada. In addition, predicting air temperature from historical air temperature data alone can be improved by employing related weather variables like barometric pressure, humidity and wind speed data in the training process.
+
+  Notes:
+   - Top layer -> feed-forward neural network
+
+### 2013
+
+- [Pablo Romeu, Francisco Zamora-Martínez, Paloma Botella-Rocamora, Juan Pardo (2013). Time-Series Forecasting of Indoor Temperature Using Pre-trained Deep Neural Network. International Conference on Artificial Neural Networks.](http://link.springer.com/chapter/10.1007/978-3-642-40728-4_57)
+
+  Summary: This paper presents a study of deep learning techniques (Stacked Denoising Auto-Encoders (SDAEs)) applied to time-series forecasting in a real indoor temperature forecasting task.
  
 ## Deef Belief Network with Restricted Boltzmann Machine - Auto-Encoders
 
-2016 -> [Deep Learning for Wind Speed Forecasting in Northeastern Region of Brazil](http://ieeexplore.ieee.org/document/7424040/) <br>
-Train -> greedy layer-wise manner <br>
-Fine-tuning connection weights -> Levenberg-Marquadt <br>
-Sizes -> several combinations <br>
+### 2016
+
+- [Anderson Tenório Sergio; Teresa B. Ludermir (2016). Deep Learning for Wind Speed Forecasting in Northeastern Region of Brazil.  Intelligent Systems (BRACIS), 2015 Brazilian Conference on.](http://ieeexplore.ieee.org/document/7424040/)
+
+  Summary: This work aims to investigate the use of some of deep learning architectures (deep belief networks and aunto-encoders)  in predicting the hourly average speed of winds in the Northeastern region of Brazil. 
+
+  Notes:
+   - Model Train -> greedy layer-wise manner
+   - Fine-tuning connection weights -> Levenberg-Marquadt
+   - Model sizes -> several combinations
 
 ## Long Short-Term Memory - Deef Belief Network with Restricted Boltzmann Machine - AutoEncoders Long Short-Term Memory
 
-2016 -> [Deep Learning for solar power forecasting — An approach using AutoEncoder and LSTM Neural Networks]( http://ieeexplore.ieee.org/document/7844673/) <br>
+### 2016
+
+- [André Gensler; Janosch Henze; Bernhard Sick; Nils Raabe (2016). Deep Learning for solar power forecasting — An approach using AutoEncoder and LSTM Neural Networks. Systems, Man, and Cybernetics (SMC), 2016 IEEE International Conference on.]( http://ieeexplore.ieee.org/document/7844673/)
+
+  Summary: This paper introduces different Deep Learning and Artificial Neural Network algorithms, such as Deep Belief Networks, AutoEncoder, and LSTM in the field of renewable energy power forecasting of 21 solar power plants.
 
 ## Others
 
