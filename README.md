@@ -76,23 +76,39 @@
 
 ### 2016
 
-- [Yujin Tang; Jianfeng Xu; Kazunori Matsumoto; Chihiro Ono (2016). Sequence-to-Sequence Model with Attention for Time Series Classification. Data Mining Workshops (ICDMW), 2016 IEEE 16th International Conference on](http://ieeexplore.ieee.org/document/7836709/)
+- [Yujin Tang; Jianfeng Xu; Kazunori Matsumoto; Chihiro Ono (2016). Sequence-to-Sequence Model with Attention for Time Series Classification. Data Mining Workshops (ICDMW), 2016 IEEE 16th International Conference on.](http://ieeexplore.ieee.org/document/7836709/)
 
   Summary: The paper proposes a model incorporating a sequence-to-sequence model that consists two LSTMs, one encoder and one decoder. The encoder LSTM accepts input time series, extracts information and based on which the decoder LSTM constructs fixed length sequences that can be regarded as discriminatory features. The paper also introduces the attention mechanism.
   
-2016 -> [Deep learning for stock prediction using numerical and textual information](http://ieeexplore.ieee.org/document/7550882/) <br>  
-  
-2016 -> [Travel time prediction with LSTM neural network](http://ieeexplore.ieee.org/document/7795686/) <br>  
-  
-2016 -> [Building energy load forecasting using Deep Neural Networks](http://ieeexplore.ieee.org/document/7793413/) <br>
-Model train -> Backpropagation <br>
+- [Ryo Akita; Akira Yoshihara; Takashi Matsubara; Kuniaki Uehara (2016. Deep learning for stock prediction using numerical and textual information. Computer and Information Science (ICIS), 2016 IEEE/ACIS 15th International Conference on.](http://ieeexplore.ieee.org/document/7550882/)  
 
-2016 -> [Traffic flow prediction with Long Short-Term Memory Networks (LSTMs)](http://ieeexplore.ieee.org/document/7848593/) <br>
+  Summary: This paper proposes an application of deep learning models, Paragraph Vector, and Long Short-Term Memory (LSTM), to financial time series forecasting.
   
-2016 -> [Deep neural network architectures for forecasting analgesic response](http://ieeexplore.ieee.org/document/7591352/) <br>
+- [Yanjie Duan; Yisheng Lv; Fei-Yue Wang (2016). Travel time prediction with LSTM neural network.  Intelligent Transportation Systems (ITSC), 2016 IEEE 19th International Conference on.](http://ieeexplore.ieee.org/document/7795686/)
 
-2016 -> [Long short-term memory model for traffic congestion prediction with online open data](http://ieeexplore.ieee.org/document/7795543/) <br>
-Sizes and learning rates -> several ccombinations <br>
+  Summary: This paper explores a deep learning model, the LSTM neural network model, for travel time prediction. By employing the travel time data provided by Highways England dataset, the paper construct 66 series prediction LSTM neural networks. 
+  
+- [Daniel L. Marino; Kasun Amarasinghe; Milos Manic (2016) .Building energy load forecasting using Deep Neural Networks. Industrial Electronics Society , IECON 2016 - 42nd Annual Conference of the IEEE.](http://ieeexplore.ieee.org/document/7793413/)
+
+  Summary: This paper presents an energy load forecasting methodology based on Deep Neural Networks (Long Short Term Memory (LSTM) algorithms). The presented work investigates two LSTM based architectures: 1) standard LSTM and 2) LSTM-based Sequence to Sequence (S2S) architecture. Both methods were implemented on a benchmark data set of electricity consumption data from one residential customer.
+
+  Notes:
+   - Model train -> Backpropagation
+
+- [Hongxin Shao; Boon-Hee Soong (2016). Traffic flow prediction with Long Short-Term Memory Networks (LSTMs). Region 10 Conference (TENCON), 2016 IEEE.](http://ieeexplore.ieee.org/document/7848593/)
+
+  Summary: This paper explores the application of Long Short-Term Memory Networks (LSTMs) in short-term traffic flow prediction.
+  
+- [Paul Nickerson; Patrick Tighe; Benjamin Shickel; Parisa Rashidi (2016). Deep neural network architectures for forecasting analgesic response. Engineering in Medicine and Biology Society (EMBC), 2016 IEEE 38th Annual International Conference of the.](http://ieeexplore.ieee.org/document/7591352/) 
+
+  Summary: This paper compares conventional machine learning methods with modern neural network architectures to better forecast analgesic responses. The paper applies the LSTM to predict what the next measured pain score will be after administration of an analgesic drug, and compared the results with simpler techniques. 
+
+- [Yuan-yuan Chen; Yisheng Lv; Zhenjiang Li; Fei-Yue Wang (2016). Long short-term memory model for traffic congestion prediction with online open data. Intelligent Transportation Systems (ITSC), 2016 IEEE 19th International Conference on.](http://ieeexplore.ieee.org/document/7795543/)
+
+  Summary: This paper uses a stacked long short-term memory model, a kind of deep architecture, to learn and predict the patterns of traffic conditions (thart are collected from online open web based map services). 
+
+  Notes:
+   - Model sizes and learning rates -> several ccombinations
  
 ## Auto-Encoders
 
