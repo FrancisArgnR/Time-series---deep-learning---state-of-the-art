@@ -19,11 +19,15 @@
 
   Summary: In this paper a Deep Belief Network (DBN) including two restricted Boltzmann machines (RBMs) was used to model load demand series.
 
+### 2016
+
 - [Hirata, T.a, Kuremoto, T.a, Obayashi, M.a, Mabu, S.a, Kobayashi, K.b (2016). A novel approach to time series forecasting using deep learning and linear model. IEEJ Transactions on Electronics, Information and Systems, 136(3),348-356.](https://www.scopus.com/record/display.uri?eid=2-s2.0-84960451045&origin=resultslist&sort=r-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=3&citeCnt=0&searchTerm=) 
 
   Summary: This paper presents a hybrid prediction method using DBNs (deep Belief Network) and ARIMA. *(without access to full paper)*
 
-2016 -> [Deep Belief Network Using Reinforcement Learning and Its Applications to Time Series Forecasting](http://link.springer.com/chapter/10.1007/978-3-319-46675-0_4) <br>
+- [Takaomi Hirata, Takashi Kuremoto, Masanao Obayashi, Shingo Mabu, Kunikazu Kobayashi (2016).Deep Belief Network Using Reinforcement Learning and Its Applications to Time Series Forecasting. International Conference on Neural Information Processing ](http://link.springer.com/chapter/10.1007/978-3-319-46675-0_4)
+
+  Summary: This paper introduces a reinforcement learning method named stochastic gradient ascent (SGA) to the DBN with RBMs instead conventional BackPropagation to predict a benchmark named CATS data.
 
 - [Peng Jiang, Cheng Chen, Xiao Liu (2016). Time series prediction for evolutions of complex systems: A deep learning approach. Control and Robotics Engineering (ICCRE), 2016 IEEE International Conference on](http://ieeexplore.ieee.org/document/7476150/) 
 
@@ -33,7 +37,7 @@
    - Top layer -> SVM
    - Fine-tuning connection weights -> Back-propagation 
   
-- [Xueheng Qiu; Le Zhang; Ye Ren; P. N. Suganthan; Gehan Amaratunga (2016). Traffic speed prediction using deep learning method. Intelligent Transportation Systems (ITSC), 2016 IEEE 19th International Conference on](http://ieeexplore.ieee.org/document/7795712/)
+- [Yuhan Jia; Jianping Wu; Yiman Du (2016). Traffic speed prediction using deep learning method. Intelligent Transportation Systems (ITSC), 2016 IEEE 19th International Conference on](http://ieeexplore.ieee.org/document/7795712/)
 
   Summary: In this paper, a deep learning method, the Deep Belief Network (DBN) model, is proposed for short-term traffic speed information prediction.
 
@@ -41,14 +45,26 @@
    - Model train -> greedy layer-wise manner
    - Fine-tuning connection weights -> Back-propagation
    - Model Sizes -> several ccombinations
-  
-2015 -> [Ensemble deep learning for regression and time series forecasting](http://ieeexplore.ieee.org/abstract/document/7015739/) <br>
-Top layer -> support vector regression (SVR) <br>
 
-2014 -> [Time series forecasting using a deep belief network with restricted Boltzmann machines](http://www.sciencedirect.com/science/article/pii/S0925231213007388) <br>
-Train -> greedy layer-wise manner <br>
-Fine-tuning connection weights -> Back-propagation <br>
-Sizes and learning rates -> PSO <br>
+### 2015
+
+- [Xueheng Qiu; Le Zhang; Ye Ren; P. N. Suganthan; Gehan Amaratunga (2015). Ensemble deep learning for regression and time series forecasting. Computational Intelligence in Ensemble Learning (CIEL), 2014 IEEE Symposium on](http://ieeexplore.ieee.org/abstract/document/7015739/)
+
+  Summary: This paper proposes an ensemble of deep learning belief networks (DBN) for regression and time series forecasting on electricity load demand datasets. Another contribution is to aggregate the outputs from various DBNs by a support vector regression (SVR) model.
+
+  Notes:
+   - Top layer -> support vector regression (SVR)
+
+### 2014
+
+- [Takashi Kuremotoa, Shinsuke Kimuraa, Kunikazu Kobayashib, Masanao Obayashia (2014).Time series forecasting using a deep belief network with restricted Boltzmann machines. Neurocomputing, 137(5), 47–56](http://www.sciencedirect.com/science/article/pii/S0925231213007388)
+
+  Summary: This papers proposes a method for time series prediction using deep belief nets (DBN) (with 3-layer of RBMs to capture the feature of input space of time series data).
+  
+  Notes:
+   - Mode Train -> greedy layer-wise manner
+   - Fine-tuning connection weights -> Back-propagation
+   - Mode sizes and learning rates -> PSO
 
 ## Long short-term memory
 
