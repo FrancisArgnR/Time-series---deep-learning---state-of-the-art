@@ -177,32 +177,65 @@
 
 ## Others
 
-2017 -> [Convolutional neural networks for time series classification](http://ieeexplore.ieee.org/document/7870510/) <br>
-Type -> Convolutional neural network <br>
+### 2017
 
-2017 -> [Short term power load forecasting using Deep Neural Networks](http://ieeexplore.ieee.org/document/7876196/) <br>
-Type -> Recurrent neural network <br>
+- [Bendong Zhao; Huanzhang Lu; Shangfeng Chen; Junliang Liu; Dongya Wu (2017). Convolutional neural networks for time series classification. Journal of Systems Engineering and Electronics. 28(1), pages 162.169)](http://ieeexplore.ieee.org/document/7870510/)
 
-2016 -> [Deep Convolutional Factor Analyser for Multivariate Time Series Modeling](http://ieeexplore.ieee.org/document/7837993/) <br>
-Type -> Convolutional neural network <br>
+  Summary: This paper proposes a convolutional neural network (CNN) framework for time series classification. Two groups of experiments are conducted on simulated data sets and eight groups of experiments are conducted on real-world data sets from different application domains.
 
-2016 -> [A Deep Learning Approach for the Prediction of Retail Store Sales](http://ieeexplore.ieee.org/document/7836713/) <br>
-Type -> Not specified <br>
+  Type: Convolutional neural network
 
-2016 -> [Optimization of decentralized renewable energy system by weather forecasting and deep machine learning techniques](http://ieeexplore.ieee.org/document/7796524/) <br>
-Type -> a novel optimization tool platform using Boltzmann machine algorithm for NMIP <br>
+- [Ghulam Mohi Ud Din; Angelos K. Marnerides (2017). Short term power load forecasting using Deep Neural Networks. Computing, Networking and Communications (ICNC), 2017 International Conference on.](http://ieeexplore.ieee.org/document/7876196/)
 
-2015 -> [Weather forecasting using deep learning techniques](http://ieeexplore.ieee.org/document/7415154/) <br>
-Type -> Recurrent neural network, convolutional neural network <br>
+  Summary: This paper exploits the applicability of and compares the performance of the Feed-forward Deep Neural Network (FF-DNN) and Recurrent Deep Neural Network (R-DNN) models on the basis of accuracy and computational performance in the context of time-wise short term forecast of electricity load. The herein proposed method is evaluated over real datasets gathered in a period of 4 years and provides forecasts on the basis of days and weeks ahead.
   
-2014 -> [Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks](http://link.springer.com/chapter/10.1007/978-3-319-08010-9_33) <br>
-Type -> Multi-Channels Deep Convolution Neural Networks <br>
+  Type: Recurrent neural network
+
+### 2016
+
+- [Chao Yuan; Amit Chakraborty (2016). Deep Convolutional Factor Analyser for Multivariate Time Series Modeling. Data Mining (ICDM), 2016 IEEE 16th International Conference on.](http://ieeexplore.ieee.org/document/7837993/)
+
+  Summary: The paper presents a deep convolutional factor analyser (DCFA) for multivariate time series modeling. The network is constructed in a way that bottom layer nodes are independent. Through a process of up-sampling and convolution, higher layer nodes gain more temporal dependency. 
   
+  Type: Convolutional neural network
+
+- [Yuta Kaneko; Katsutoshi Yada (2016). A Deep Learning Approach for the Prediction of Retail Store Sales.  Data Mining Workshops (ICDMW), 2016 IEEE 16th International Conference on.](http://ieeexplore.ieee.org/document/7836713/) 
+
+  Summary: The present study uses three years' worth of point-of-sale (POS) data from a retail store to construct a sales prediction model that, given the sales of a particular day, predicts the changes in sales on the following day.
+
+  Type: Not specified
+
+- [Tomah Sogabe; Haruhisa Ichikawa; Tomah Sogabe; Katsuyoshi Sakamoto; Koichi Yamaguchi; Masaru Sogabe; Takashi Sato; Yusuke Suwa (2016). Optimization of decentralized renewable energy system by weather forecasting and deep machine learning techniques. Innovative Smart Grid Technologies - Asia (ISGT-Asia), 2016 IEEE.](http://ieeexplore.ieee.org/document/7796524/) 
+
+  Summary: This work reports on employing the deep learning artificial intelligence techniques to predict the energy consumption and power generation together with the weather forecasting numerical simulation. An optimization tool platform using Boltzmann machine algorithm for NMIP problem is also proposed for better computing scalable decentralized renewable energy system.
+
+  Type: a novel optimization tool platform using Boltzmann machine algorithm for NMIP 
+
+### 2015
+
+- [Afan Galih Salman; Bayu Kanigoro; Yaya Heryadi (2015). Weather forecasting using deep learning techniques. Advanced Computer Science and Information Systems (ICACSIS), 2015 International Conference on.](http://ieeexplore.ieee.org/document/7415154/) 
+
+  Summary: This study investigates deep learning techniques for weather forecasting. In particular, this study will compare prediction performance of Recurrence Neural Network (RNN), Conditional Restricted Boltzmann Machine (CRBM), and Convolutional Network (CN) models. Those models are tested using weather dataset which are collected from a number of weather stations.
+
+  Type: Recurrent neural network, convolutional neural network 
+  
+### 2014 
+- [Yi ZhengQi LiuEnhong ChenYong GeJ. Leon Zhao. (2014). Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks. International Conference on Web-Age Information Management.](http://link.springer.com/chapter/10.1007/978-3-319-08010-9_33) 
+
+  Summary: This paper explores the feature learning techniques to improve the performance of traditional feature-based approaches. Specifically, the paper proposes a deep learning framework for multivariate time series classification in two groups of experiments on real-world data sets from different application domains. 
+
+  Type: Multi-Channels Deep Convolution Neural Networks 
   
 ## Reviews
   
+### 2017
+  
 2017 -> [Deep Learning for Time-Series Analysis](https://arxiv.org/abs/1701.01887) <br>
   
+### 2014
+
 2014 -> [A review of unsupervised feature learning and deep learning for time-series modeling](http://www.sciencedirect.com/science/article/pii/S0167865514000221) <br>
+
+### 2012
 
 2012 -> [Deep Learning for Time Series Modeling](https://pdfs.semanticscholar.org/a241/a7e26d6baf2c068601813216d3cc09e845ff.pdf) <br>
