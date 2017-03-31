@@ -17,22 +17,30 @@
 
 - [Qiu, X., Ren, Y., Suganthan, P. N., & Amaratunga, G. A. (2017). Empirical Mode Decomposition based ensemble deep learning for load demand time series forecasting. Applied Soft Computing, 54, 246-255.](https://www.scopus.com/record/display.uri?eid=2-s2.0-85011866839&origin=resultslist&sort=plf-f&src=s&st1=deep+learning+time+series&st2=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a10&sot=b&sdt=b&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=0&citeCnt=0&searchTerm=)
 
-  Summary: In this paper a Deep Belief Network (DBN) including two restricted Boltzmann machines (RBMs) was used to model the load demand series.
+  Summary: In this paper a Deep Belief Network (DBN) including two restricted Boltzmann machines (RBMs) was used to model load demand series.
 
 - [Hirata, T.a, Kuremoto, T.a, Obayashi, M.a, Mabu, S.a, Kobayashi, K.b (2016). A novel approach to time series forecasting using deep learning and linear model. IEEJ Transactions on Electronics, Information and Systems, 136(3),348-356.](https://www.scopus.com/record/display.uri?eid=2-s2.0-84960451045&origin=resultslist&sort=r-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=3&citeCnt=0&searchTerm=) 
 
-  Summary: This paper presents a hybrid prediction method using DBNs (deep Belief Network) and ARIMA
+  Summary: This paper presents a hybrid prediction method using DBNs (deep Belief Network) and ARIMA. *(without access to full paper)*
 
 2016 -> [Deep Belief Network Using Reinforcement Learning and Its Applications to Time Series Forecasting](http://link.springer.com/chapter/10.1007/978-3-319-46675-0_4) <br>
 
-2016 -> [Time series prediction for evolutions of complex systems: A deep learning approach](http://ieeexplore.ieee.org/document/7476150/) <br>
-Top layer -> SVM <br>
-Fine-tuning connection weights -> Back-propagation <br>
+- [Peng Jiang, Cheng Chen, Xiao Liu (2016). Time series prediction for evolutions of complex systems: A deep learning approach. Control and Robotics Engineering (ICCRE), 2016 IEEE International Conference on](http://ieeexplore.ieee.org/document/7476150/) 
+
+  Summary: The paper proposes a deep learning approach, which hybridizes a deep belief networks (DBNs) and a nonlinear kernel-based parallel evolutionary SVM (ESVM), to predict evolution states of complex systems in a classification manner.
+
+  Notes:
+   - Top layer -> SVM
+   - Fine-tuning connection weights -> Back-propagation 
   
-2016 -> [Traffic speed prediction using deep learning method](http://ieeexplore.ieee.org/document/7795712/)<br>
-Train -> greedy layer-wise manner <br>
-Fine-tuning connection weights -> Back-propagation <br>
-Sizes -> several ccombinations <br>
+- [Xueheng Qiu; Le Zhang; Ye Ren; P. N. Suganthan; Gehan Amaratunga (2016). Traffic speed prediction using deep learning method. Intelligent Transportation Systems (ITSC), 2016 IEEE 19th International Conference on](http://ieeexplore.ieee.org/document/7795712/)
+
+  Summary: In this paper, a deep learning method, the Deep Belief Network (DBN) model, is proposed for short-term traffic speed information prediction.
+
+  Notes:
+   - Model train -> greedy layer-wise manner
+   - Fine-tuning connection weights -> Back-propagation
+   - Model Sizes -> several ccombinations
   
 2015 -> [Ensemble deep learning for regression and time series forecasting](http://ieeexplore.ieee.org/abstract/document/7015739/) <br>
 Top layer -> support vector regression (SVR) <br>
