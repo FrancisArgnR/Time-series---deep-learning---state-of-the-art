@@ -230,12 +230,15 @@
   
 ### 2017
   
-2017 -> [Deep Learning for Time-Series Analysis](https://arxiv.org/abs/1701.01887) <br>
+- [(John Cristian Borges Gamboa 2017. Deep Learning for Time-Series Analysis](https://arxiv.org/abs/1701.01887)
+
+  Summary: This paper presents review of the main Deep Learning techniques, and some applications on Time-Series analysis are summaried. 
   
 ### 2014
 
-2014 -> [A review of unsupervised feature learning and deep learning for time-series modeling](http://www.sciencedirect.com/science/article/pii/S0167865514000221) <br>
+- [Martin Längkvist, Lars Karlsson, Amy Loutfi (2014). A review of unsupervised feature learning and deep learning for time-series modeling. Pattern Recognition Letters. 42(1), pages 11–24.](http://www.sciencedirect.com/science/article/pii/S0167865514000221)
+
+  Summary: This paper gives a review of the recent developments in deep learning and unsupervised feature learning for time-series problems.
 
 ### 2012
-
-2012 -> [Deep Learning for Time Series Modeling](https://pdfs.semanticscholar.org/a241/a7e26d6baf2c068601813216d3cc09e845ff.pdf) <br>
+- [Enzo Busseti, Ian Osband, Scott Wong (2012). Deep Learning for Time Series Modeling](https://pdfs.semanticscholar.org/a241/a7e26d6baf2c068601813216d3cc09e845ff.pdf)
