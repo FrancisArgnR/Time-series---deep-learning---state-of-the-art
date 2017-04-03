@@ -1,6 +1,39 @@
 
 # Deep Learning and Time Series
 
+This document shows a list of bibliographical references on DeepLearning and Time Series, organized by type and year. I add some additional notes on each reference.
+
+
+Table of contents
+
+* [Deef Belief Network with Restricted Boltzmann Machine](#deef-belief-network-with-restricted-boltzmann-machine)
+         * [2017](#2017)
+         * [2016](#2016)
+         * [2015](#2015)
+         * [2014](#2014)
+      * [Long short-term memory](#long-short-term-memory)
+         * [2017](#2017-1)
+         * [2016](#2016-1)
+      * [Auto-Encoders](#auto-encoders)
+         * [2016](#2016-2)
+         * [2015](#2015-1)
+         * [2013](#2013)
+      * [Deef Belief Network with Restricted Boltzmann Machine - Auto-Encoders](#deef-belief-network-with-restricted-boltzmann-machine---auto-encoders)
+         * [2016](#2016-3)
+      * [Long Short-Term Memory - Deef Belief Network with Restricted Boltzmann Machine - AutoEncoders Long Short-Term Memory](#long-short-term-memory---deef-belief-network-with-restricted-boltzmann-machine---autoencoders-long-short-term-memory)
+         * [2016](#2016-4)
+      * [Others](#others)
+         * [2017](#2017-2)
+         * [2016](#2016-5)
+         * [2015](#2015-2)
+         * [2014](#2014-1)
+      * [Reviews](#reviews)
+         * [2017](#2017-3)
+         * [2014](#2014-2)
+         * [2012](#2012)
+
+
+
 ## Deef Belief Network with Restricted Boltzmann Machine
 
 ### 2017 
