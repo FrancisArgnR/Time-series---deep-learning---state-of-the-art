@@ -58,8 +58,8 @@ Table of contents
   Summary: The paper looks into the drought prediction problem using deep learning algorithms. They propose a Deep Belief Network consisting of two Restricted Boltzmann Machines. The study compares the efficiency of the proposed model to that of traditional approaches such as Multilayer Perceptron (MLP) and Support Vector Regression (SVR) for predicting the different time scale drought conditions.
   
   Notes:
-   - Model 1 train -> unsupervised learning
-   - Model 1 Fine-tuning connection weights -> Back-propagation 
+   - Model train -> unsupervised learning
+   - Model Fine-tuning connection weights -> Back-propagation 
 
 ### 2016
 
