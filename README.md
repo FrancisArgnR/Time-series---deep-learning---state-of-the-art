@@ -191,6 +191,8 @@ Table of contents
 
 ### 2018
 
+- [Lago; Jesus, De Ridder; Fjo, De Schutter; Bart (2018). Forecasting spot electricity prices: Deep learning approaches and empirical comparison of traditional algorithms.  Applied Energy, Volume 221, 1 July 2018, Pages 386-405](https://www.sciencedirect.com/science/article/pii/S030626191830196X?via%3Dihub)
+
 ### 2016
 
 - [Anderson Tenório Sergio; Teresa B. Ludermir (2016). Deep Learning for Wind Speed Forecasting in Northeastern Region of Brazil.  Intelligent Systems (BRACIS), 2015 Brazilian Conference on.](http://ieeexplore.ieee.org/document/7424040/)
