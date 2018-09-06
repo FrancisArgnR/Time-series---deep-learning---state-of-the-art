@@ -124,6 +124,10 @@ Table of contents
 - [Zheng Zhao; Weihai Chen; Xingming Wu; Peter C. Y. Chen; Jingmeng Liu (2017). LSTM network: a deep learning approach for short-term traffic forecast. IET Intelligent Transport Systems, 11(2), 3, pages 68 - 75](http://ieeexplore.ieee.org/document/7874313/)
 
   Summary: This paper pses a traffic forecast model based on long short-term memory (LSTM) network, that considers temporal-spatial correlation in traffic system via a two-dimensional network which is composed of many memory units. 
+  
+- [Yangdong Liu; Yizhe Wang; Xiaoguang Yang; Linan Zhang (2017). Short-term travel time prediction by deep learning: A comparison of different LSTM-DNN models. Intelligent Transportation Systems (ITSC), 2017 IEEE 20th International Conference on](https://ieeexplore.ieee.org/document/8317886/)
+
+  Summary: The paper uses a series of long short-term memory neural networks with deep neural layers (LSTM-DNN) using 16 settings of hyperparameters and investigates their performance on a 90-day travel time dataset. Then, the LSTM is tested along with linear models such as linear regression, Ridge and Lasso regression, ARIMA and DNN models under 10 sets of sliding windows and predicting horizons via the same dataset. 
 
 ### 2016
 
