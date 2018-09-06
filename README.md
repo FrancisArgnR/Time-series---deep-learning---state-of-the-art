@@ -18,6 +18,7 @@ Table of contents
      - [2016](#2016-2)
      - [2015](#2015-1)
      - [2013](#2013)
+* [Combination of the above](#combination-of-the-above)     
 * [Deef Belief Network with Restricted Boltzmann Machine - Auto-Encoders](#deef-belief-network-with-restricted-boltzmann-machine---auto-encoders)
      - [2016](#2016-3)
 * [Long Short-Term Memory - Deef Belief Network with Restricted Boltzmann Machine - AutoEncoders Long Short-Term Memory](#long-short-term-memory---deef-belief-network-with-restricted-boltzmann-machine---autoencoders-long-short-term-memory)
@@ -187,7 +188,8 @@ Table of contents
 
   Summary: This paper presents a study of deep learning techniques (Stacked Denoising Auto-Encoders (SDAEs)) applied to time-series forecasting in a real indoor temperature forecasting task.
  
-## Deef Belief Network with Restricted Boltzmann Machine - Auto-Encoders
+ 
+## Combination of the above
 
 ### 2016
 
@@ -199,10 +201,6 @@ Table of contents
    - Model Train -> greedy layer-wise manner
    - Fine-tuning connection weights -> Levenberg-Marquadt
    - Model sizes -> several combinations
-
-## Long Short-Term Memory - Deef Belief Network with Restricted Boltzmann Machine - AutoEncoders Long Short-Term Memory
-
-### 2016
 
 - [André Gensler; Janosch Henze; Bernhard Sick; Nils Raabe (2016). Deep Learning for solar power forecasting — An approach using AutoEncoder and LSTM Neural Networks. Systems, Man, and Cybernetics (SMC), 2016 IEEE International Conference on.]( http://ieeexplore.ieee.org/document/7844673/)
 
