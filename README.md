@@ -19,9 +19,7 @@ Table of contents
      - [2015](#2015-1)
      - [2013](#2013)
 * [Combination of the above](#combination-of-the-above)     
-* [Deef Belief Network with Restricted Boltzmann Machine - Auto-Encoders](#deef-belief-network-with-restricted-boltzmann-machine---auto-encoders)
-     - [2016](#2016-3)
-* [Long Short-Term Memory - Deef Belief Network with Restricted Boltzmann Machine - AutoEncoders Long Short-Term Memory](#long-short-term-memory---deef-belief-network-with-restricted-boltzmann-machine---autoencoders-long-short-term-memory)
+     - [2018](#2018)
      - [2016](#2016-4)
 * [Others](#others)
      - [2017](#2017-2)
@@ -190,6 +188,8 @@ Table of contents
  
  
 ## Combination of the above
+
+### 2018
 
 ### 2016
 
