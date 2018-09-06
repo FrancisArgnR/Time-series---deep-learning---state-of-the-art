@@ -100,6 +100,10 @@ Table of contents
 
 ## Long short-term memory
 
+### 2018
+
+- [Jie Chen, Guo-Qiang Zeng, Wuneng Zhou, Wei Du, Kang-Di Lu (2018). Wind speed forecasting using nonlinear-learning ensemble of deep learning time series prediction and extremal optimization. Energy Conversion and Management, Volume 165, 1 June 2018, Pages 681-695](https://www.sciencedirect.com/science/article/pii/S0196890418303261?via%3Dihub)
+
 ### 2017 
 
 - [Zheng Zhao; Weihai Chen; Xingming Wu; Peter C. Y. Chen; Jingmeng Liu (2017). LSTM network: a deep learning approach for short-term traffic forecast. IET Intelligent Transport Systems, 11(2), 3, pages 68 - 75](http://ieeexplore.ieee.org/document/7874313/)
