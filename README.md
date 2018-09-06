@@ -21,14 +21,15 @@ Table of contents
      - [2013](#2013)
 * [Combination of the above](#combination-of-the-above)     
      - [2018](#2018-1)
+     - [2017](#2017-2)
      - [2016](#2016-4)
 * [Others](#others)
-     - [2017](#2017-2)
+     - [2017](#2017-3)
      - [2016](#2016-5)
      - [2015](#2015-2)
      - [2014](#2014-1)
 * [Reviews](#reviews)
-     - [2017](#2017-3)
+     - [2017](#2017-4)
      - [2014](#2014-2)
      - [2012](#2012)
 
@@ -205,6 +206,11 @@ Table of contents
 
   Summary: The paper proposes a framework for forecasting electricity prices. They use four different deep learning models for predicting electricity prices. In addition, they also consider that an extensive benchmark is still missing. To tackle that, they compare and analyze the accuracy of 27 common approaches for electricity price forecasting. Based on the benchmark results, they show how the proposed deep learning models outperform the state-of-the-art methods and obtain results that are statistically significant. 
  
+### 2017
+
+- [Yuhan Jia; Jianping Wu; Moshe Ben-Akiva; Ravi Seshadri; Yiman Du (2017). Rainfall-integrated traffic speed prediction using deep learning method. IET Intelligent Transport Systems, Volume: 11, Issue: 9, 11](https://ieeexplore.ieee.org/document/8075261/)
+
+  Summary: The paper investigates the performance of deep belief network (DBN) and long short-term memory (LSTM) to conduct short-term traffic speed prediction with the consideration of rainfall impact as a non-traffic input. To validate the performance, the traffic detector data from an arterial in Beijing are utilised for model training and testing. The experiment results indicate that deep learning models have better prediction accuracy over other existing models. Furthermore, the LSTM can outperform the DBN to capture the time-series characteristics of traffic speed data.
 
 ### 2016
 
