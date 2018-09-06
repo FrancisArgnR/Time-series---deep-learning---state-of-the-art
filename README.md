@@ -53,6 +53,14 @@ Table of contents
 
   Summary: In this paper a Deep Belief Network (DBN) including two restricted Boltzmann machines (RBMs) was used to model load demand series.
 
+- [Norbert Agana; Abdollah Homaifar (2017). A deep learning based approach for long-term drought prediction. SoutheastCon](https://ieeexplore.ieee.org/document/7925314/)
+
+  Summary: The paper looks into the drought prediction problem using deep learning algorithms. They propose a Deep Belief Network consisting of two Restricted Boltzmann Machines. The study compares the efficiency of the proposed model to that of traditional approaches such as Multilayer Perceptron (MLP) and Support Vector Regression (SVR) for predicting the different time scale drought conditions.
+  
+  Notes:
+   - Model 1 train -> unsupervised learning
+   - Model 1 Fine-tuning connection weights -> Back-propagation 
+
 ### 2016
 
 - [Hirata, T.a, Kuremoto, T.a, Obayashi, M.a, Mabu, S.a, Kobayashi, K.b (2016). A novel approach to time series forecasting using deep learning and linear model. IEEJ Transactions on Electronics, Information and Systems, 136(3), pages 348-356.](https://www.scopus.com/record/display.uri?eid=2-s2.0-84960451045&origin=resultslist&sort=r-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=3&citeCnt=0&searchTerm=) 
