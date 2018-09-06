@@ -49,6 +49,10 @@ Table of contents
    - Model 2 train -> ReLu 
    - Model Sizes -> trial and error 
 
+- [Xueheng Qiu; Ye Ren; Ponnuthurai Nagaratnam Suganthan; Gehan A.J. Amaratunga. (2017). Empirical Mode Decomposition based ensemble deep learning for load demand time series forecasting. Applied Soft Computing, Volume 54, May 2017, Pages 246-255](https://www.sciencedirect.com/science/article/pii/S1568494617300273?via%3Dihub)
+
+  Summary: This work presented an ensemble method composed of Empirical Mode Decomposition (EMD) algorithm and deep learning approach (Deep Belief Network (DBN) including two restricted Boltzmann machines (RBMs)). Simulation results demonstrated attractiveness of the proposed method compared with nine forecasting methods.
+
 - [Qiu, X., Ren, Y., Suganthan, P. N., & Amaratunga, G. A. (2017). Empirical Mode Decomposition based ensemble deep learning for load demand time series forecasting. Applied Soft Computing, 54, pages 246-255.](https://www.scopus.com/record/display.uri?eid=2-s2.0-85011866839&origin=resultslist&sort=plf-f&src=s&st1=deep+learning+time+series&st2=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a10&sot=b&sdt=b&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=0&citeCnt=0&searchTerm=)
 
   Summary: In this paper a Deep Belief Network (DBN) including two restricted Boltzmann machines (RBMs) was used to model load demand series.
@@ -123,7 +127,7 @@ Table of contents
 
   Summary: The paper proposes a model incorporating a sequence-to-sequence model that consists two LSTMs, one encoder and one decoder. The encoder LSTM accepts input time series, extracts information and based on which the decoder LSTM constructs fixed length sequences that can be regarded as discriminatory features. The paper also introduces the attention mechanism.
   
-- [Ryo Akita; Akira Yoshihara; Takashi Matsubara; Kuniaki Uehara (2016. Deep learning for stock prediction using numerical and textual information. Computer and Information Science (ICIS), 2016 IEEE/ACIS 15th International Conference on.](http://ieeexplore.ieee.org/document/7550882/)  
+- [Ryo Akita; Akira Yoshihara; Takashi Matsubara; Kuniaki Uehara (2016). Deep learning for stock prediction using numerical and textual information. Computer and Information Science (ICIS), 2016 IEEE/ACIS 15th International Conference on.](http://ieeexplore.ieee.org/document/7550882/)  
 
   Summary: This paper proposes an application of deep learning models, Paragraph Vector, and Long Short-Term Memory (LSTM), to financial time series forecasting.
   
