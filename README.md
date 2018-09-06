@@ -105,7 +105,7 @@ Table of contents
 
 - [Jie Chen, Guo-Qiang Zeng, Wuneng Zhou, Wei Du, Kang-Di Lu (2018). Wind speed forecasting using nonlinear-learning ensemble of deep learning time series prediction and extremal optimization. Energy Conversion and Management, Volume 165, 1 June 2018, Pages 681-695](https://www.sciencedirect.com/science/article/pii/S0196890418303261?via%3Dihub)
 
-  Summary: In this paper, they proposed a nonlinear-learning ensemble of deep learning time series prediction based on LSTMs, SVRM and EO (extremal optimization algorithm). The proposed Ensemble is applied on two case studies data collected from two wind farm. Statistical tests of experimental results compared with other popular prediction models demonstrated the proposed Ensemble can achieve a better forecasting performance. 
+  Summary: In this paper, they proposed a nonlinear-learning ensemble of deep learning time series prediction based on LSTMs, SVRM and EO (extremal optimization algorithm) that is applied on two case studies data collected from two wind farm.
   
   Notes:
    - Top layer -> support vector regression (SVR)
