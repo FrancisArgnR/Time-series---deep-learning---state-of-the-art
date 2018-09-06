@@ -220,6 +220,10 @@ Table of contents
 
   Summary: The paper investigates the performance of deep belief network (DBN) and long short-term memory (LSTM) to conduct short-term traffic speed prediction with the consideration of rainfall impact as a non-traffic input. To validate the performance, the traffic detector data from an arterial in Beijing are utilised for model training and testing. The experiment results indicate that deep learning models have better prediction accuracy over other existing models. Furthermore, the LSTM can outperform the DBN to capture the time-series characteristics of traffic speed data.
 
+- [Rodrigo F. Berriel; André Teixeira Lopes; Alexandre Rodrigues; Flávio Miguel Varejão; Thiago Oliveira-Santos (2017). Monthly energy consumption forecast: A deep learning approach. Neural Networks (IJCNN), 2017 International Joint Conference on](https://ieeexplore.ieee.org/document/7966398/)
+
+  Summary: The paper proposes a system to predict monthly energy consumption using deep learning techniques. Three deep learning models were studied: Deep Fully Connected, Convolutional and Long Short-Term Memory Neural Networks.
+
 ### 2016
 
 - [Anderson Tenório Sergio; Teresa B. Ludermir (2016). Deep Learning for Wind Speed Forecasting in Northeastern Region of Brazil.  Intelligent Systems (BRACIS), 2015 Brazilian Conference on.](http://ieeexplore.ieee.org/document/7424040/)
