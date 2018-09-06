@@ -193,6 +193,9 @@ Table of contents
 
 - [Lago; Jesus, De Ridder; Fjo, De Schutter; Bart (2018). Forecasting spot electricity prices: Deep learning approaches and empirical comparison of traditional algorithms.  Applied Energy, Volume 221, 1 July 2018, Pages 386-405](https://www.sciencedirect.com/science/article/pii/S030626191830196X?via%3Dihub)
 
+  Summary: The paper proposes a framework for forecasting electricity prices. They use four different deep learning models for predicting electricity prices. In addition, they also consider that an extensive benchmark is still missing. To tackle that, they compare and analyze the accuracy of 27 common approaches for electricity price forecasting. Based on the benchmark results, they show how the proposed deep learning models outperform the state-of-the-art methods and obtain results that are statistically significant. 
+ 
+
 ### 2016
 
 - [Anderson Tenório Sergio; Teresa B. Ludermir (2016). Deep Learning for Wind Speed Forecasting in Northeastern Region of Brazil.  Intelligent Systems (BRACIS), 2015 Brazilian Conference on.](http://ieeexplore.ieee.org/document/7424040/)
