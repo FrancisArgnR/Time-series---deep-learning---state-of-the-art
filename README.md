@@ -46,7 +46,7 @@ Table of contents
   Notes:
    - Model train -> unsupervised learning
    - Model Fine-tuning connection weights -> Back-propagation 
-
+   
 ### 2016
 
 - [Hirata, T.a, Kuremoto, T.a, Obayashi, M.a, Mabu, S.a, Kobayashi, K.b (2016). A novel approach to time series forecasting using deep learning and linear model. IEEJ Transactions on Electronics, Information and Systems, 136(3), pages 348-356.](https://www.scopus.com/record/display.uri?eid=2-s2.0-84960451045&origin=resultslist&sort=r-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=3&citeCnt=0&searchTerm=) 
@@ -248,6 +248,16 @@ Table of contents
   Summary: This paper exploits the applicability of and compares the performance of the Feed-forward Deep Neural Network (FF-DNN) and Recurrent Deep Neural Network (R-DNN) models on the basis of accuracy and computational performance in the context of time-wise short term forecast of electricity load. The herein proposed method is evaluated over real datasets gathered in a period of 4 years and provides forecasts on the basis of days and weeks ahead.
   
   Type: Recurrent neural network
+
+- [Qiang Wang ; Linqing Wang ; Jun Zhao ; Wei Wang (2017). Long-term time series prediction based on deep denoising recurrent temporal restricted Boltzmann machine network. Chinese Automation Congress (CAC), 2017](https://ieeexplore.ieee.org/document/8243182/)
+
+  Summary: The study proposes a deep denoising recurrent temporal restricted Boltzmann machine network for long-term prediction of time series. 
+
+  Notes:
+   - Model train -> layer by layer
+   - Model Fine-tuning connection weights -> Back-propagation 
+   
+  Type: Recurrent restricted Boltzmann machine
 
 ### 2016
 
