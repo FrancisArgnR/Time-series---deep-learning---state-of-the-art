@@ -13,9 +13,9 @@ Table of contents
           - [2017](#2017-1), [2016](#2016-1), [2015](#2015) 
      
 * [Long short-term memory](#long-short-term-memory)
-     - [Journal](#journal)
+     - [Journal](#journal-1)
           - [2018](#2018), [2017](#2017-2)
-     - [Conference](#conference)
+     - [Conference](#conference-1)
           - [2017](#2017-3), [2016](#2016-2)
           
 * [Auto-Encoders](#auto-encoders)
