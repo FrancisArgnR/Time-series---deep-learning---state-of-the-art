@@ -24,8 +24,12 @@ Table of contents
      - [Conference](#conference-2)
           - [2016](#2016-4), [2015](#2015-1), [2013](#2013)
           
-* [Combination of the above](#combination-of-the-above)     
-     - [2018](#2018-1), [2017](#2017-2), [2016](#2016-4)
+* [Combination of the above](#combination-of-the-above)
+     - [Journal](#journal-3)
+          - [2018](#2018-1), [2017](#2017-5)
+     - [Conference](#conference-3)
+          - [2017](#2017-6), [2016](#2016-5)
+          
 * [Others](#others)
      - [2017](#2017-3), [2016](#2016-5), [2015](#2015-2), [2014](#2014-1)
 * [Reviews](#reviews)
@@ -237,23 +241,29 @@ Table of contents
  
 ## Combination of the above
 
-### 2018
+### Journal
+
+#### 2018
 
 - [Lago; Jesus, De Ridder; Fjo, De Schutter; Bart (2018). Forecasting spot electricity prices: Deep learning approaches and empirical comparison of traditional algorithms.  Applied Energy, Volume 221, 1 July 2018, Pages 386-405](https://www.sciencedirect.com/science/article/pii/S030626191830196X?via%3Dihub)
 
   Summary: The paper proposes a framework for forecasting electricity prices. They use four different deep learning models for predicting electricity prices. In addition, they also consider that an extensive benchmark is still missing. To tackle that, they compare and analyze the accuracy of 27 common approaches for electricity price forecasting. Based on the benchmark results, they show how the proposed deep learning models outperform the state-of-the-art methods and obtain results that are statistically significant. 
  
-### 2017
+#### 2017
 
 - [Yuhan Jia; Jianping Wu; Moshe Ben-Akiva; Ravi Seshadri; Yiman Du (2017). Rainfall-integrated traffic speed prediction using deep learning method. IET Intelligent Transport Systems, Volume: 11, Issue: 9, 11](https://ieeexplore.ieee.org/document/8075261/)
 
   Summary: The paper investigates the performance of deep belief network (DBN) and long short-term memory (LSTM) to conduct short-term traffic speed prediction with the consideration of rainfall impact as a non-traffic input. To validate the performance, the traffic detector data from an arterial in Beijing are utilised for model training and testing. The experiment results indicate that deep learning models have better prediction accuracy over other existing models. Furthermore, the LSTM can outperform the DBN to capture the time-series characteristics of traffic speed data.
 
+### Conference 
+
+#### 2017
+
 - [Rodrigo F. Berriel; André Teixeira Lopes; Alexandre Rodrigues; Flávio Miguel Varejão; Thiago Oliveira-Santos (2017). Monthly energy consumption forecast: A deep learning approach. Neural Networks (IJCNN), 2017 International Joint Conference on](https://ieeexplore.ieee.org/document/7966398/)
 
   Summary: The paper proposes a system to predict monthly energy consumption using deep learning techniques. Three deep learning models were studied: Deep Fully Connected, Convolutional and Long Short-Term Memory Neural Networks.
 
-### 2016
+#### 2016
 
 - [Anderson Tenório Sergio; Teresa B. Ludermir (2016). Deep Learning for Wind Speed Forecasting in Northeastern Region of Brazil.  Intelligent Systems (BRACIS), 2015 Brazilian Conference on.](http://ieeexplore.ieee.org/document/7424040/)
 
