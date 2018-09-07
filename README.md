@@ -7,7 +7,11 @@ This document shows a list of bibliographical references on DeepLearning and Tim
 Table of contents
 
 * [Deef Belief Network with Restricted Boltzmann Machine](#deef-belief-network-with-restricted-boltzmann-machine)    
-     - [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014) 
+     - [Journal](#journal)
+          - [2017](#2017), [2014](#2014) 
+     - [Conference](#conference)
+          - [2017](#2017-1), [2016](#2016), [2015](#2015) 
+     
 * [Long short-term memory](#long-short-term-memory)
      - [2018](#2018), [2017](#2017-1), [2016](#2016-1)
 * [Auto-Encoders](#auto-encoders)
@@ -23,7 +27,9 @@ Table of contents
 
 ## Deef Belief Network with Restricted Boltzmann Machine
 
-### 2017 
+### Journal
+
+## 2017
 
 - [Ryu, S., Noh, J., & Kim, H. (2017). Deep neural network based demand side short term load forecasting. Energies, 10(1), 3.](https://www.scopus.com/record/display.uri?eid=2-s2.0-85009236706&origin=resultslist&sort=plf-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=4&citeCnt=0&searchTerm=)
 
@@ -39,6 +45,21 @@ Table of contents
 
   Summary: In this paper a Deep Belief Network (DBN) including two restricted Boltzmann machines (RBMs) was used to model load demand series.
 
+## 2014
+
+- [Takashi Kuremotoa, Shinsuke Kimuraa, Kunikazu Kobayashib, Masanao Obayashia (2014).Time series forecasting using a deep belief network with restricted Boltzmann machines. Neurocomputing, 137(5), pages 47–56](http://www.sciencedirect.com/science/article/pii/S0925231213007388)
+
+  Summary: This papers proposes a method for time series prediction using deep belief nets (DBN) (with 3-layer of RBMs to capture the feature of input space of time series data).
+  
+  Notes:
+   - Mode Train -> greedy layer-wise manner
+   - Fine-tuning connection weights -> Back-propagation
+   - Mode sizes and learning rates -> PSO
+
+### Conference
+
+## 2017
+
 - [Norbert Agana; Abdollah Homaifar (2017). A deep learning based approach for long-term drought prediction. SoutheastCon](https://ieeexplore.ieee.org/document/7925314/)
 
   Summary: The paper looks into the drought prediction problem using deep learning algorithms. They propose a Deep Belief Network consisting of two Restricted Boltzmann Machines. The study compares the efficiency of the proposed model to that of traditional approaches such as Multilayer Perceptron (MLP) and Support Vector Regression (SVR) for predicting the different time scale drought conditions.
@@ -47,7 +68,7 @@ Table of contents
    - Model train -> unsupervised learning
    - Model Fine-tuning connection weights -> Back-propagation 
    
-### 2016
+## 2016
 
 - [Hirata, T.a, Kuremoto, T.a, Obayashi, M.a, Mabu, S.a, Kobayashi, K.b (2016). A novel approach to time series forecasting using deep learning and linear model. IEEJ Transactions on Electronics, Information and Systems, 136(3), pages 348-356.](https://www.scopus.com/record/display.uri?eid=2-s2.0-84960451045&origin=resultslist&sort=r-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=3&citeCnt=0&searchTerm=) 
 
@@ -74,7 +95,7 @@ Table of contents
    - Fine-tuning connection weights -> Back-propagation
    - Model Sizes -> several ccombinations
 
-### 2015
+## 2015
 
 - [Xueheng Qiu; Le Zhang; Ye Ren; P. N. Suganthan; Gehan Amaratunga (2015). Ensemble deep learning for regression and time series forecasting. Computational Intelligence in Ensemble Learning (CIEL), 2014 IEEE Symposium on](http://ieeexplore.ieee.org/abstract/document/7015739/)
 
@@ -83,16 +104,6 @@ Table of contents
   Notes:
    - Top layer -> support vector regression (SVR)
 
-### 2014
-
-- [Takashi Kuremotoa, Shinsuke Kimuraa, Kunikazu Kobayashib, Masanao Obayashia (2014).Time series forecasting using a deep belief network with restricted Boltzmann machines. Neurocomputing, 137(5), pages 47–56](http://www.sciencedirect.com/science/article/pii/S0925231213007388)
-
-  Summary: This papers proposes a method for time series prediction using deep belief nets (DBN) (with 3-layer of RBMs to capture the feature of input space of time series data).
-  
-  Notes:
-   - Mode Train -> greedy layer-wise manner
-   - Fine-tuning connection weights -> Back-propagation
-   - Mode sizes and learning rates -> PSO
 
 ## Long short-term memory
 
