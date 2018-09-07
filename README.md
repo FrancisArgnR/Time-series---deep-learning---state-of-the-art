@@ -200,7 +200,7 @@ Table of contents
    - Top layer -> multilayer perceptron
    - Model sizes and learning rates -> several combinations
   
-- [Hao-Fan Yang, Tharam S. Dillon (2016). Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach. IEEE Transactions on Neural Networks and Learning Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517319)
+- [Hao-Fan Yang, Tharam S. Dillon (2016). Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach. IEEE Transactions on Neural Networks and Learning Systems ( Volume: 28, Issue: 10, Oct. 2017)](https://ieeexplore.ieee.org/document/7517319/)
 
   Summary: This paper proposes a stacked autoencoder Levenberg–Marquardt model to improve forecasting accuracy. It is applied to  real-world data collected from the M6 freeway in the U.K.  
 
