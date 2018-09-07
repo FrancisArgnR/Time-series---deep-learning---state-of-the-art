@@ -19,7 +19,11 @@ Table of contents
           - [2017](#2017-3), [2016](#2016-2)
           
 * [Auto-Encoders](#auto-encoders)
-     - [2016](#2016-2), [2015](#2015-1), [2013](#2013)
+     - [Journal](#journal-2)
+          - [2016](#2017-4), [2016](#2016-3)
+     - [Conference](#conference-2)
+          - [2016](#2016-4), [2015](#2015-1), [2013](#2013)
+          
 * [Combination of the above](#combination-of-the-above)     
      - [2018](#2018-1), [2017](#2017-2), [2016](#2016-4)
 * [Others](#others)
@@ -180,7 +184,18 @@ Table of contents
  
 ## Auto-Encoders
 
-### 2016
+### Journal 
+
+#### 2017
+
+- [Hao-Fan Yang, Tharam S. Dillon (2017). Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach. IEEE Transactions on Neural Networks and Learning Systems ( Volume: 28, Issue: 10, Oct. 2017)](https://ieeexplore.ieee.org/document/7517319/)
+
+  Summary: This paper proposes a stacked autoencoder Levenberg–Marquardt model to improve forecasting accuracy. It is applied to  real-world data collected from the M6 freeway in the U.K.  
+
+  Notes:
+   - Fine-tuning connection weights -> Levenberg-Marquadt
+
+#### 2016
 
 - [Li, X.ac, Peng, L.a, Hu, Y.ac, Shao, J.b, Chi, T.a (2016). Deep learning architecture for air quality predictions. Environmental Science and Pollution Research. 23(22), pages 22408-22417](https://www.scopus.com/record/display.uri?eid=2-s2.0-84991071427&origin=resultslist&sort=plf-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=9&citeCnt=0&searchTerm=)
 
@@ -192,6 +207,10 @@ Table of contents
    - Fine-tuning connection weights -> Back-propagation
    - Model sizes -> several ccombinations
 
+### Conference
+
+#### 2016
+
 - [Emilcy Hernández, Victor Sanchez-Anguix, Vicente Julian, Javier Palanca, Néstor Duque (2016). Rainfall Prediction: A Deep Learning Approach. International Conference on Hybrid Artificial Intelligence Systems.](http://link.springer.com/chapter/10.1007/978-3-319-32034-2_13)
 
   Summary: The paper introduces an architecture based on Deep Learning for the prediction of the accumulated daily precipitation for the next day. More specifically, it includes an autoencoder for reducing and capturing non-linear relationships between attributes, and a multilayer perceptron for the prediction task. 
@@ -200,14 +219,7 @@ Table of contents
    - Top layer -> multilayer perceptron
    - Model sizes and learning rates -> several combinations
   
-- [Hao-Fan Yang, Tharam S. Dillon (2016). Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach. IEEE Transactions on Neural Networks and Learning Systems ( Volume: 28, Issue: 10, Oct. 2017)](https://ieeexplore.ieee.org/document/7517319/)
-
-  Summary: This paper proposes a stacked autoencoder Levenberg–Marquardt model to improve forecasting accuracy. It is applied to  real-world data collected from the M6 freeway in the U.K.  
-
-  Notes:
-   - Fine-tuning connection weights -> Levenberg-Marquadt
-  
-### 2015
+#### 2015
   
 - [Moinul Hossain; Banafsheh Rekabdar; Sushil J. Louis; Sergiu Dascalu (2015). Forecasting the weather of Nevada: A deep learning approach. Neural Networks (IJCNN), 2015 International Joint Conference on.](http://ieeexplore.ieee.org/document/7280812/)
 
@@ -216,7 +228,7 @@ Table of contents
   Notes:
    - Top layer -> feed-forward neural network
 
-### 2013
+#### 2013
 
 - [Pablo Romeu, Francisco Zamora-Martínez, Paloma Botella-Rocamora, Juan Pardo (2013). Time-Series Forecasting of Indoor Temperature Using Pre-trained Deep Neural Network. International Conference on Artificial Neural Networks.](http://link.springer.com/chapter/10.1007/978-3-642-40728-4_57)
 
