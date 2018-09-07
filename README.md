@@ -115,7 +115,7 @@ Table of contents
 
   Summary: The paper evalues a series of long short-term memory neural networks with deep neural layers (LSTM-DNN) using 16 settings of hyperparameters and investigates their performance on a 90-day travel time dataset. Then, the LSTM is tested along with linear models such as linear regression, Ridge and Lasso regression, ARIMA and DNN models under 10 sets of sliding windows and predicting horizons via the same dataset. 
   
-- [Using deep learning to detect price change indications in financial markets](https://ieeexplore.ieee.org/document/8081663/)
+- [Avraam Tsantekidis; Nikolaos Passalis; Anastasios Tefas; Juho Kanniainen; Moncef Gabbouj; Alexandros Iosifidis (2017). Using deep learning to detect price change indications in financial markets. Signal Processing Conference (EUSIPCO), 2017 25th European](https://ieeexplore.ieee.org/document/8081663/)
 
   Summary: The paper proposes a LSTM deep learning methodology for predicting future price movements from large-scale high-frequency time-series data on Limit Order Books. 
 
