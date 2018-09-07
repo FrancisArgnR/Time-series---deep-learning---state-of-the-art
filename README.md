@@ -13,7 +13,11 @@ Table of contents
           - [2017](#2017-1), [2016](#2016-1), [2015](#2015) 
      
 * [Long short-term memory](#long-short-term-memory)
-     - [2018](#2018), [2017](#2017-1), [2016](#2016-1)
+     - [Journal](#journal)
+          - [2018](#2018), [2017](#2017-2)
+     - [Conference](#conference)
+          - [2017](#2017-3), [2016](#2016-2)
+          
 * [Auto-Encoders](#auto-encoders)
      - [2016](#2016-2), [2015](#2015-1), [2013](#2013)
 * [Combination of the above](#combination-of-the-above)     
@@ -29,7 +33,7 @@ Table of contents
 
 ### Journal
 
-## 2017
+#### 2017
 
 - [Ryu, S., Noh, J., & Kim, H. (2017). Deep neural network based demand side short term load forecasting. Energies, 10(1), 3.](https://www.scopus.com/record/display.uri?eid=2-s2.0-85009236706&origin=resultslist&sort=plf-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=4&citeCnt=0&searchTerm=)
 
@@ -45,13 +49,13 @@ Table of contents
 
   Summary: In this paper a Deep Belief Network (DBN) including two restricted Boltzmann machines (RBMs) was used to model load demand series.
 
-## 2016
+#### 2016
 
 - [Hirata, T.a, Kuremoto, T.a, Obayashi, M.a, Mabu, S.a, Kobayashi, K.b (2016). A novel approach to time series forecasting using deep learning and linear model. IEEJ Transactions on Electronics, Information and Systems, 136(3), pages 348-356.](https://www.scopus.com/record/display.uri?eid=2-s2.0-84960451045&origin=resultslist&sort=r-f&src=s&st1=deep+learning+time+series&nlo=&nlr=&nls=&sid=306771ADB79C2181330A84526BFB4363.wsnAw8kcdt7IPYLO0V48gA%3a210&sot=b&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct&sl=40&s=TITLE-ABS-KEY%28deep+learning+time+series%29&relpos=3&citeCnt=0&searchTerm=) 
 
   Summary: This paper presents a hybrid prediction method using DBNs (deep Belief Network) and ARIMA. *(without access to full paper)*
   
-## 2014
+#### 2014
 
 - [Takashi Kuremotoa, Shinsuke Kimuraa, Kunikazu Kobayashib, Masanao Obayashia (2014).Time series forecasting using a deep belief network with restricted Boltzmann machines. Neurocomputing, 137(5), pages 47–56](http://www.sciencedirect.com/science/article/pii/S0925231213007388)
 
@@ -64,7 +68,7 @@ Table of contents
 
 ### Conference
 
-## 2017
+#### 2017
 
 - [Norbert Agana; Abdollah Homaifar (2017). A deep learning based approach for long-term drought prediction. SoutheastCon](https://ieeexplore.ieee.org/document/7925314/)
 
@@ -74,7 +78,7 @@ Table of contents
    - Model train -> unsupervised learning
    - Model Fine-tuning connection weights -> Back-propagation 
    
-## 2016
+#### 2016
 
 - [Takaomi Hirata, Takashi Kuremoto, Masanao Obayashi, Shingo Mabu, Kunikazu Kobayashi (2016).Deep Belief Network Using Reinforcement Learning and Its Applications to Time Series Forecasting. International Conference on Neural Information Processing ](http://link.springer.com/chapter/10.1007/978-3-319-46675-0_4)
 
@@ -97,7 +101,7 @@ Table of contents
    - Fine-tuning connection weights -> Back-propagation
    - Model Sizes -> several ccombinations
 
-## 2015
+#### 2015
 
 - [Xueheng Qiu; Le Zhang; Ye Ren; P. N. Suganthan; Gehan Amaratunga (2015). Ensemble deep learning for regression and time series forecasting. Computational Intelligence in Ensemble Learning (CIEL), 2014 IEEE Symposium on](http://ieeexplore.ieee.org/abstract/document/7015739/)
 
@@ -109,7 +113,9 @@ Table of contents
 
 ## Long short-term memory
 
-### 2018
+### Journal 
+
+#### 2018
 
 - [Jie Chen, Guo-Qiang Zeng, Wuneng Zhou, Wei Du, Kang-Di Lu (2018). Wind speed forecasting using nonlinear-learning ensemble of deep learning time series prediction and extremal optimization. Energy Conversion and Management, Volume 165, 1 June 2018, Pages 681-695](https://www.sciencedirect.com/science/article/pii/S0196890418303261?via%3Dihub)
 
@@ -118,12 +124,16 @@ Table of contents
   Notes:
    - Top layer -> support vector regression (SVR)
    
-### 2017 
+#### 2017 
 
 - [Zheng Zhao; Weihai Chen; Xingming Wu; Peter C. Y. Chen; Jingmeng Liu (2017). LSTM network: a deep learning approach for short-term traffic forecast. IET Intelligent Transport Systems, 11(2), 3, pages 68 - 75](http://ieeexplore.ieee.org/document/7874313/)
 
   Summary: This paper pses a traffic forecast model based on long short-term memory (LSTM) network, that considers temporal-spatial correlation in traffic system via a two-dimensional network which is composed of many memory units. 
-  
+ 
+### Conference
+
+#### 2017
+ 
 - [Yangdong Liu; Yizhe Wang; Xiaoguang Yang; Linan Zhang (2017). Short-term travel time prediction by deep learning: A comparison of different LSTM-DNN models. Intelligent Transportation Systems (ITSC), 2017 IEEE 20th International Conference on](https://ieeexplore.ieee.org/document/8317886/)
 
   Summary: The paper evalues a series of long short-term memory neural networks with deep neural layers (LSTM-DNN) using 16 settings of hyperparameters and investigates their performance on a 90-day travel time dataset. Then, the LSTM is tested along with linear models such as linear regression, Ridge and Lasso regression, ARIMA and DNN models under 10 sets of sliding windows and predicting horizons via the same dataset. 
@@ -132,7 +142,7 @@ Table of contents
 
   Summary: The paper proposes a LSTM deep learning methodology for predicting future price movements from large-scale high-frequency time-series data on Limit Order Books. 
 
-### 2016
+#### 2016
 
 - [Yujin Tang; Jianfeng Xu; Kazunori Matsumoto; Chihiro Ono (2016). Sequence-to-Sequence Model with Attention for Time Series Classification. Data Mining Workshops (ICDMW), 2016 IEEE 16th International Conference on.](http://ieeexplore.ieee.org/document/7836709/)
 
@@ -142,7 +152,7 @@ Table of contents
 
   Summary: This paper proposes an application of deep learning models, Paragraph Vector, and Long Short-Term Memory (LSTM), to financial time series forecasting.
   
-- [Yanjie Duan; Yisheng Lv; Fei-Yue Wang (2016). Travel time prediction with LSTM neural network.  Intelligent Transportation Systems (ITSC), 2016 IEEE 19th International Conference on.](http://ieeexplore.ieee.org/document/7795686/)
+- [Yanjie Duan; Yisheng Lv; Fei-Yue Wang (2016). Travel time prediction with LSTM neural network. Intelligent Transportation Systems (ITSC), 2016 IEEE 19th International Conference on.](http://ieeexplore.ieee.org/document/7795686/)
 
   Summary: This paper explores a deep learning model, the LSTM neural network model, for travel time prediction. By employing the travel time data provided by Highways England dataset, the paper construct 66 series prediction LSTM neural networks. 
   
