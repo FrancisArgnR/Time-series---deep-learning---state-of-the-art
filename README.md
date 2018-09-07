@@ -20,7 +20,7 @@ Table of contents
           
 * [Auto-Encoders](#auto-encoders)
      - [Journal](#journal-2)
-          - [2016](#2017-4), [2016](#2016-3)
+          - [2017](#2017-4), [2016](#2016-3)
      - [Conference](#conference-2)
           - [2016](#2016-4), [2015](#2015-1), [2013](#2013)
           
