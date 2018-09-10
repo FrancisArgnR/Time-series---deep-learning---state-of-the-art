@@ -149,6 +149,10 @@ Table of contents
 - [Nilavra Pathak; Amadou Ba; Joern Ploennigs; Nirmalya Roy (2018). Forecasting Gas Usage for Big Buildings Using Generalized Additive Models and Deep Learning. IEEE International Conference on Smart Computing (SMARTCOMP)](https://ieeexplore.ieee.org/document/8421350/)
 
   Summary: This paper uses two approaches to model gas consumption, Generalized Additive Models (GAM) and Long Short-Term Memory (LSTM). They compare the performances of GAM and LSTM with other state-of-the-art forecasting approachesand they show that LSTM outperforms GAM and other existing approaches.
+
+- [Sean McNally; Jason Roche; Simon Caton (2018). Predicting the Price of Bitcoin Using Machine Learning. 26th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)](https://ieeexplore.ieee.org/document/8374483/)
+
+  Summary: The paper proposes a Bayesian optimised recurrent neural network (RNN) and a Long Short Term Memory (LSTM) network to ascertain with what accuracy the direction of Bitcoin price in USD can be predicted. The paper also implemented an ARIMA model for time series forecasting as a comparison to the deep learning models. The LSTM achieves the highest classification accuracy.
   
 - [Che-Sheng Hsu; Jehn-Ruey Jiang (2018). Remaining useful life estimation using long short-term memory deep learning. IEEE International Conference on Applied System Invention (ICASI)](https://ieeexplore.ieee.org/document/8394326/)
 
