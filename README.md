@@ -146,6 +146,10 @@ Table of contents
 
   Summary: This work proposes a time series forecasting model using a specific type of recursive neural networks, LSTM, for operation scheduling and sequencing in a virtual shop floor environment.  
 
+- [Nilavra Pathak; Amadou Ba; Joern Ploennigs; Nirmalya Roy (2018). Forecasting Gas Usage for Big Buildings Using Generalized Additive Models and Deep Learning. IEEE International Conference on Smart Computing (SMARTCOMP)](https://ieeexplore.ieee.org/document/8421350/)
+
+  Summary: This paper uses two approaches to model gas consumption, Generalized Additive Models (GAM) and Long Short-Term Memory (LSTM). They compare the performances of GAM and LSTM with other state-of-the-art forecasting approachesand they show that LSTM outperforms GAM and other existing approaches.
+  
 - [Che-Sheng Hsu; Jehn-Ruey Jiang (2018). Remaining useful life estimation using long short-term memory deep learning. IEEE International Conference on Applied System Invention (ICASI)](https://ieeexplore.ieee.org/document/8394326/)
 
   Summary: The paper proposes a deep learning method (long short-term memory (LSTM)) to estimate the remaining useful life of aero-propulsion engines. The proposed method is compared with the following methods: multi-layer perceptron (MLP), support vector regression (SVR), relevance vector regression (RVR) and convolutional neural network (CNN). 
