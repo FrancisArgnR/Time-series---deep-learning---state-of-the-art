@@ -16,7 +16,7 @@ Table of contents
      - [Journal](#journal-1)
           - [2018](#2018), [2017](#2017-2)
      - [Conference](#conference-1)
-          - [2017](#2017-3), [2016](#2016-2)
+          - [2018](#2018-1), [2017](#2017-3), [2016](#2016-2)
           
 * [Auto-Encoders](#auto-encoders)
      - [Journal](#journal-2)
@@ -26,7 +26,7 @@ Table of contents
           
 * [Combination of the above](#combination-of-the-above)
      - [Journal](#journal-3)
-          - [2018](#2018-1), [2017](#2017-5)
+          - [2018](#2018-2), [2017](#2017-5)
      - [Conference](#conference-3)
           - [2017](#2017-6), [2016](#2016-5)
           
@@ -139,6 +139,12 @@ Table of contents
   Summary: This paper pses a traffic forecast model based on long short-term memory (LSTM) network, that considers temporal-spatial correlation in traffic system via a two-dimensional network which is composed of many memory units. 
  
 ### Conference
+
+#### 2018
+
+- [Che-Sheng Hsu; Jehn-Ruey Jiang (2018). Remaining useful life estimation using long short-term memory deep learning. IEEE International Conference on Applied System Invention (ICASI)](https://ieeexplore.ieee.org/document/8394326/)
+
+  Summary: The paper proposes a deep learning method (long short-term memory (LSTM)) to estimate the remaining useful life of aero-propulsion engines. The proposed method is compared with the following methods: multi-layer perceptron (MLP), support vector regression (SVR), relevance vector regression (RVR) and convolutional neural network (CNN). 
 
 #### 2017
  
