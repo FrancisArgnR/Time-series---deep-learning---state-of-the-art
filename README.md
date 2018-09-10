@@ -142,6 +142,10 @@ Table of contents
 
 #### 2018
 
+- [Cristina Morariu; Theodor Borangiu (2018). Time series forecasting for dynamic scheduling of manufacturing processes. IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR)](https://ieeexplore.ieee.org/document/8402748/)
+
+  Summary: This work proposes a time series forecasting model using a specific type of recursive neural networks, LSTM, for operation scheduling and sequencing in a virtual shop floor environment.  
+
 - [Che-Sheng Hsu; Jehn-Ruey Jiang (2018). Remaining useful life estimation using long short-term memory deep learning. IEEE International Conference on Applied System Invention (ICASI)](https://ieeexplore.ieee.org/document/8394326/)
 
   Summary: The paper proposes a deep learning method (long short-term memory (LSTM)) to estimate the remaining useful life of aero-propulsion engines. The proposed method is compared with the following methods: multi-layer perceptron (MLP), support vector regression (SVR), relevance vector regression (RVR) and convolutional neural network (CNN). 
