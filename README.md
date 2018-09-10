@@ -31,7 +31,7 @@ Table of contents
           - [2017](#2017-6), [2016](#2016-5)
           
 * [Others](#others)
-     - [2017](#2017-3), [2016](#2016-5), [2015](#2015-2), [2014](#2014-1)
+     - [2018](#2018-3), [2017](#2017-3), [2016](#2016-5), [2015](#2015-2), [2014](#2014-1)
 * [Reviews](#reviews)
      - [2017](#2017-4), [2014](#2014-2), [2012](#2012)
 
@@ -286,6 +286,12 @@ Table of contents
 
 ## Others
 
+### 2018
+
+- [Chien-Liang Liu; Wen-Hoar Hsaio; Yao-Chung Tu (2018). Time Series Classification with Multivariate Convolutional Neural Network.  IEEE Transactions on Industrial Electronics **(Early Access)**](https://ieeexplore.ieee.org/document/8437249/)
+
+  Summary: This paper presents a novel deep learning architecture called multivariate convolutional neural network for time series classification, in which the proposed architecture considers multivariate and lag-features characteristics.
+
 ### 2017
 
 - [Bendong Zhao; Huanzhang Lu; Shangfeng Chen; Junliang Liu; Dongya Wu (2017). Convolutional neural networks for time series classification. Journal of Systems Engineering and Electronics. 28(1), pages 162.169)](http://ieeexplore.ieee.org/document/7870510/)
@@ -345,6 +351,7 @@ Table of contents
   Type: MultiLayer Perceptron.   
   
 ### 2014 
+
 - [Yi ZhengQi LiuEnhong ChenYong GeJ. Leon Zhao. (2014). Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks. International Conference on Web-Age Information Management.](http://link.springer.com/chapter/10.1007/978-3-319-08010-9_33) 
 
   Summary: This paper explores the feature learning techniques to improve the performance of traditional feature-based approaches. Specifically, the paper proposes a deep learning framework for multivariate time series classification in two groups of experiments on real-world data sets from different application domains. 
