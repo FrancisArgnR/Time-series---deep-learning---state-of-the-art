@@ -304,6 +304,8 @@ Table of contents
 
   Summary: This paper presents a novel deep learning architecture called multivariate convolutional neural network for time series classification, in which the proposed architecture considers multivariate and lag-features characteristics.
 
+  Type: Convolutional neural network
+
 ### 2017
 
 - [Bendong Zhao; Huanzhang Lu; Shangfeng Chen; Junliang Liu; Dongya Wu (2017). Convolutional neural networks for time series classification. Journal of Systems Engineering and Electronics. 28(1), pages 162.169)](http://ieeexplore.ieee.org/document/7870510/)
